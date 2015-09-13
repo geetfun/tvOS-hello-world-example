@@ -1,0 +1,4 @@
+To run this code:
+
+(1) Launch the tvOS simulator, build, and run the Swift app in the directory tvOS-hello-world
+(2) Launch the server at the current directory with the command: python -m SimpleHTTPServer 9001
